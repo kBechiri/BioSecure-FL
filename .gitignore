@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+Results*/
+scalability_results/
+scalability_extension_results/
+dataset/
+*.pkl
